@@ -1,6 +1,6 @@
 //Java progrma to work with the inbuilt methods of the collection's linkedlist...
 
-package oops;
+package collections;
 import java.util.*;
 public class Singlylinkedlist {
 	@SuppressWarnings("resource")
