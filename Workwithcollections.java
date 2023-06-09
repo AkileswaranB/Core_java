@@ -1,5 +1,5 @@
 //Collections inbuilt methode in the arraylist...
-package oops;
+package collections;
 
 import java.util.*;
 public class Workwithcollections {
